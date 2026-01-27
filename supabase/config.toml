@@ -1,0 +1,18 @@
+project_id = "oxiyfnlhalptsdydlbmz"
+
+[api]
+enabled = true
+port = 54321
+max_rows = 1000
+
+[functions.submit-inquiry]
+verify_jwt = false
+
+[functions.generate-blog-content]
+verify_jwt = true
+
+[functions.generate-all-blogs]
+verify_jwt = false
+
+[functions.generate-simple-blog]
+verify_jwt = true

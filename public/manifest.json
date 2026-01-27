@@ -1,0 +1,27 @@
+{
+  "name": "BrandHub.ma - Agence Digitale Premium",
+  "short_name": "BrandHub.ma",
+  "description": "Leading branding agency in Morocco, Africa, Middle East & Europe. Expert brand identity design, digital marketing & creative solutions.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#11118b",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/favicone.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/favicone.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "marketing", "design"],
+  "lang": "fr-MA",
+  "dir": "ltr"
+}

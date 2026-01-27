@@ -1,0 +1,24 @@
+{
+    "title": "BrandHub.ma – Your Partner for Brand Success",
+    "subtitle": "Custom Web Solutions in Casablanca, Marrakech & Rabat",
+    "description": "Premium digital agency in Morocco",
+    "cta": {
+        "primary": "Start a project",
+        "secondary": "View our work"
+    },
+    "features": {
+        "title": "Why choose BrandHub?",
+        "quality": {
+            "title": "Premium Quality",
+            "description": "Professional-grade solutions that exceed market standards"
+        },
+        "expertise": {
+            "title": "Local Expertise",
+            "description": "Deep understanding of the Moroccan market and local needs"
+        },
+        "support": {
+            "title": "24/7 Support",
+            "description": "Always available to support your success"
+        }
+    }
+}

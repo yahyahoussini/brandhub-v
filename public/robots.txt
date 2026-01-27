@@ -1,0 +1,58 @@
+# BrandHub.ma - Robots.txt for SEO Optimization
+# Optimized for branding and web development keywords in Morocco
+
+User-agent: *
+# Allow all content for indexing
+Allow: /
+Allow: /services/
+Allow: /portfolio/
+Allow: /blog/
+Allow: /about
+Allow: /contact
+Allow: /locations/
+
+# Disallow admin and private areas
+Disallow: /admin/
+Disallow: /admin
+Disallow: /api/
+Disallow: /*.json$
+Disallow: /dashboard
+
+# Allow search engines to crawl assets
+Allow: /assets/
+Allow: /*.css$
+Allow: /*.js$
+Allow: /*.woff2$
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.webp$
+Allow: /*.svg$
+
+# Crawl delay for politeness (optional)
+Crawl-delay: 1
+
+# Sitemaps for better indexing
+Sitemap: https://brandhub.ma/sitemap.xml
+Sitemap: https://brandhub.ma/sitemap-blog.xml
+Sitemap: https://brandhub.ma/sitemap-services.xml
+
+# Specific rules for different bots
+User-agent: Googlebot
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /assets/images/
+Allow: /*.jpg$
+Allow: /*.png$
+Allow: /*.webp$
+Allow: /*.svg$
+
+User-agent: Bingbot
+Allow: /
+
+# Block bad bots (optional - uncomment if needed)
+# User-agent: AhrefsBot
+# Crawl-delay: 10
+
+# User-agent: SemrushBot  
+# Crawl-delay: 10

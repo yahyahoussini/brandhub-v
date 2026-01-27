@@ -1,0 +1,19 @@
+{
+    "title": "Nos Services",
+    "programming": {
+        "title": "Programmation",
+        "description": "Développement web et applications sur-mesure"
+    },
+    "graphics": {
+        "title": "Graphisme",
+        "description": "Design créatif et identité visuelle"
+    },
+    "content": {
+        "title": "Contenu",
+        "description": "Création de contenu engageant et SEO-optimisé"
+    },
+    "business": {
+        "title": "Business",
+        "description": "Stratégie digitale et conseil en marketing"
+    }
+}

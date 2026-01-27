@@ -1,0 +1,24 @@
+{
+    "title": "BrandHub.ma – Votre Partenaire pour le Succès de Votre Marque",
+    "subtitle": "Solutions Web sur-mesure à Casablanca, Marrakech & Rabat",
+    "description": "Agence digitale premium au Maroc",
+    "cta": {
+        "primary": "Démarrer un projet",
+        "secondary": "Voir nos réalisations"
+    },
+    "features": {
+        "title": "Pourquoi choisir BrandHub ?",
+        "quality": {
+            "title": "Qualité Premium",
+            "description": "Des solutions de qualité professionnelle qui dépassent les standards du marché"
+        },
+        "expertise": {
+            "title": "Expertise Locale",
+            "description": "Connaissance approfondie du marché marocain et des besoins locaux"
+        },
+        "support": {
+            "title": "Support 24/7",
+            "description": "Toujours disponibles pour vous accompagner dans votre succès"
+        }
+    }
+}

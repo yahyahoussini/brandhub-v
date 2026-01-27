@@ -1,0 +1,19 @@
+{
+    "title": "Our Services",
+    "programming": {
+        "title": "Programming",
+        "description": "Custom web development and applications"
+    },
+    "graphics": {
+        "title": "Graphics",
+        "description": "Creative design and visual identity"
+    },
+    "content": {
+        "title": "Content",
+        "description": "Engaging and SEO-optimized content creation"
+    },
+    "business": {
+        "title": "Business",
+        "description": "Digital strategy and marketing consulting"
+    }
+}
